@@ -2,7 +2,7 @@
 Asteroids Game: https://editor.p5js.org/willmlee/full/phEby9igS
 
 ## Walkthorugh Coding Parts
-### Ship: 
+### Ship: https://editor.p5js.org/willmlee/sketches/AsGAv7yfJ
 
 ### Asteroids:
 
