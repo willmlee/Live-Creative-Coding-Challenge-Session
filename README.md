@@ -1,5 +1,5 @@
 # Live-Creative-Coding-Challenge-Session
-Asteroids Game: https://editor.p5js.org/willmlee/full/7x49KCdfV
+Asteroids Game: https://editor.p5js.org/willmlee/full/7x49KCdfV <br>
 With Modifications: https://editor.p5js.org/willmlee/full/phEby9igS
 
 ## Walkthorugh Coding Parts
