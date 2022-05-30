@@ -7,4 +7,4 @@
 
 #### Asteroids: https://editor.p5js.org/AkashPrasad2/sketches/_PGYqUwWh
 
-#### Lasers: 
+#### Lasers: https://editor.p5js.org/myratariq/sketches/ifOkYqc7W
